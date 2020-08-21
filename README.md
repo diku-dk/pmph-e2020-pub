@@ -99,27 +99,11 @@ the lab sessions.
 
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
-| 01/09 | 10:15-12:00 | [Intro, Hardware Trends and List Homomorphisms (SFT), Chapters 1 and 2 in Lecture Notes](slides/L1-Intro-Org-LH.pdf) | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-HomGibonsThirdTheorem.pdf) 
-| 03/09 | 10:15-12:00 | [Flattening Nested Parallelism](slides/L2-Flatenning.pdf) | []() |
-| 03/09 | 13:00-17:00 | Lab: [Futhark Programming](); [Introduction to CUDA API, Simple Map Example.](slides/Lab1-CudaIntro.pdf) 
-| 03/09 | some time | [**Assignment 1 handout**](weekly-1/) 
-| 20/11 | 13:00-15:00 | [Cost models, advanced Futhark](slides/L2-advanced-futhark-cost-models.pdf) | [Guy Blelloch: Programming Parallel Algorithms](material/blelloch-programming-parallel-algorithms.pdf), [Prefix Sums and Their Applications](material/prefix-sums-and-their-applications.pdf), [A Provable Time and Space Efficient Implementation of NESL](material/a-provable-time-and-space-efficient-implementation-of-nesl.pdf) |
-| 25/11 | 13:00-15:00 | Lab | |
-| 25/11 | 15:00-17:00 | [Regular flattening: moderate and incremental](slides/L3-regular-flattening.pdf) | [Futhark: Purely Functional GPU-Programming with Nested Parallelism and In-Place Array Updates](https://futhark-lang.org/publications/pldi17.pdf), [Incremental Flattening for Nested Data Parallelism](https://futhark-lang.org/publications/ppopp19.pdf) (particularly the latter) |
-| 27/11 | 10:00-12:00 | [Full/irregular flattening](slides/L4-irreg-flattening.pdf) | [Transforming High-Level Data-Parallel Programs into Vector Operations](material/flattening/NeslFlatTechPaper.pdf), [Harnessing the Multicores: Nested Data Parallelism in Haskell](material/flattening/harnessing-multicores.pdf) (not easy to read)|
-| 27/11 | 13:00-15:00 | Lab ([**Assignment 2 handout**](weekly-2/)) | |
-| 2/12 | 13:00-15:00 | [Task parallelism (parallel Haskell)](slides/L5-parallel-haskell.pdf/) ([code](slides/L5-parallel-haskell-code/)) | [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/), chapter 4. [Seq no more: Better Strategies for Parallel Haskell](material/seq-no-more.pdf) |
-| 2/12 | 15:00-17:00 | Lab | |
-| 4/12 | 10:00-12:00 | [Halide](slides/L7-Halide.pdf) | [Halide: A Language and Compiler for Optimizing Parallelism, Locality and Recomputation in Image Processing Pipelines](material/halide-pldi13.pdf) | |
-| 4/12 | 13:00-15:00 | Lab ([**Assignment 3 handout**](weekly-3)) | |
-| 9/12 | 13:00-15:00 | [Polyhedral Analysis](slides/L9-polyhedral.pdf) | [PMPH Dependence Analysis](material/poly/L5-LoopParI.pdf); [Sven Verdoolaege: Presburger Formulas and Polyhedral Compilation (tutorial)](material/poly/polycomp-tutorial.pdf); [Sven Verdoolaege: Presburger Sets and Relations: from High-Level Modelling to Low-Level Implementation (slides)](material/poly/poly-in-detail.pdf)
-| 9/12 | 15:00-17:00 | Lab | [Code Examples Using the ISLPY library](material/poly/poly-code-egs/) |
-| 11/12 | 10:00-12:00 | [Vector programming with ISPC](slides/L8-ispc.pdf) | [ispc: A SPMD Compiler for High-Performance CPU Programming](material/ispc_inpar_2012.pdf) |
-| 11/12 | 13:00-15:00 | Lab ([**Assignment 4 handout**](weekly-4)) | |
-| 16/12 | 13:00-15:00 | [Optimizing Locality of Reference](slides/L10-LocOfRef.pdf) | [Related Literature](material/Opt-Loc-Ref-Lit/) |
-| 16/12 | 15:00-17:00 | Lab (with project proposals) | |
-| 18/12 | 10:00-12:00 | Lab | |
-| 18/12 | 13:00-15:00 | Lab | |
+| 01/09 | 10:15-12:00 | [Intro, Hardware Trends and List Homomorphisms (SFT), Chapters 1 and 2 in Lecture Notes](slides/L1-Intro-Org-LH.pdf) | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-HomGibonsThirdTheorem.pdf) |
+| 03/09 | 10:15-12:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
+| 03/09 | 13:00-17:00 | Lab: [Futhark Programming](); [Introduction to CUDA API, Simple Map Example.](slides/Lab1-CudaIntro.pdf) |
+| 03/09 | some time   | [**Assignment 1 handout**](weekly-1/) | |
+| 08/09 | 10:15-12:00 | [Flattening Nested Parallelism continuation (SFT)](slides/L2-Flatenning.pdf) | |
 
 ## Weekly assignments
 
