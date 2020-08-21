@@ -19,21 +19,23 @@ can concentrate on project work (to be announced).
 
 ### Labs: 
 
-* Thursday 13:00 - 17:00 (or later of students ask for it)
+* Thursday 13:00 - 17:00 (or later if students ask for it)
 
 We have not been yet assigned classes, but the plan is that half of
 the enrolled students (say according to alphabetical ordering) may
 physically attend the lab from 13:00 - 15:00 and the other half
 attends virtually on zoom, and then we switched roles for the
-session between 15:00 - 17:00.
+session between 15:00 - 17:00.  This way, each student is guaranteed
+to physically attend two hours of lab per week, if she/he wishes
+to attend (of course).
 
-If like the idea of physically attend the labs, then I suggest you
-come to DIKU for the other lab session as well 13:00 (the one in
-which you are only allowed virtual presence by default), because
-I would allow the other students to join until the corona class
-capacity is reached by a first-come first-serve policy.
+If you like the idea of attending the labs physically, then I
+suggest you come to DIKU for the other lab session as well (the 
+one in which you are only guaranteed virtual presence by default),
+because I will allow such students to join the lab until the corona
+class capacity is reached by a first-come first-serve policy.
 (This is because typically some students absentee the physical lab
-session, so there might be space for the others). If we are out of
+sessions, so there might be space for the others). If we are out of
 space you can find a quit place to attend by zoom via edurom.
 
 ### Evaluation
@@ -46,24 +48,42 @@ code. The group project will be presented orally at the exam together
 with the answers to some individual questions, and this will count
 for 60\% of your final grade.
 
-PMPH is structured around five weeks with lectures and lab sessions
-on Monday and Wednesday, followed by a final project to be
-presented orally at the exam.  Throughout the course, you will hand in
-four weekly assignments.  These *weeklies* count for 40\% of the
-grade, while the exam counts for 60\%.
+**Weekly and group assignment handin is still on Absalon.**
 
-The teachers are **Cosmin Oancea** and **Troels Henriksen**.
+### Teacher and Teaching Assistants (TAs)
+
+The main teacher is **[Cosmin Oancea](mailto:cosmin.oancea@diku.dk)**.
+
+One TA is **[Anders Holst](mailto:anersholst@gmail.com)**. 
+
+There will be another TA, to be announced.
+
+The plan is that the teacher will conduct the lectures and the lab.
+The TAs will be mainly in charge of grading the weekly assignments,
+patrolling the Absalon discussion forum and perhaps helping with the
+virtual lab.
+
+### Course Tracks and Resources
 
 All lectures and lab sessions will be delivered in English.  The
 assignments and projects will be posted in English, and while you can
 chose to hand in solutions in either English or Danish, English is
-preferred.
+preferred. All course material except for the hardware book is distributed via this GitHub page. (Assignment handin is still on Absalon.)
 
-All course material is distributed via this GitHub page.  Assignment
-handin is still on Absalon.  There is no mandated textbook for the
-course - you will be assigned reading material from papers and such.
+* **The hardware track** of the course covers (lecture) topics related to processor, memory and interconnect design, including cache coherency, which are selected from the book [Parallel Computer Organization and Design, by Michel Dubois, Murali Annavaram and Per Stenstrom,  ISBN 978-521-88675-8. Cambridge University Press, 2012](https://www.cambridge.org/dk/academic/subjects/engineering/computer-engineering/parallel-computer-organization-and-design?format=HB&isbn=9780521886758). The book is available at the local bookstore (biocenter). It is not mandatory to buy it---Cosmin thinks that it is possible to understand the material from the lecture slides, which are detailed enough---but also note that lecture notes are not provided for the hardware track, because of copyright issues.
 
-## Course schedule
+* **The software track** covers (lecture) topics related to parallel-programming models and recipes to recognize and optimize parallelism and locality of reference.  It demonstrates that compiler optimizations are essential to fully utilizing hardware, and that some optimizations can be implemented both in hardware and software, but with different pro and cons.   Lecture notes are available [here](material/lecture-notes-pmph.pdf), and additional (facultative) reading material (papers) will be linked with individual lectures; see Course Schedule Section below.
+
+* **The lab track** teaches GPGPU hardware specifics and programming in Futhark, CUDA, and OpenMP. The intent is that the lab track applies in practice some of the parallel programming principles and optimizations techniques discussed in the software tracks. It is also intended to provide help for the weekly assignment, project, etc. 
+
+Some of the compiler transformations taught in the software track can be found
+in this book [Optimizing Compilers for Modern Architectures. Randy Allen and Ken Kennedy, Morgan Kaufmann, 2001](https://www.elsevier.com/books/optimizing-compilers-for-modern-architectures/allen/978-0-08-051324-9), but you are not expected to buy it or read for the purpose of PMPH.
+
+Similarly, some topics are further developed in this book [High-Performance Computing Paradigm and Infrastructure](https://www.wiley.com/en-dk/High+Performance+Computing%3A+Paradigm+and+Infrastructure-p-9780471732709), but again, you are not expected to buy it or read for the purpose of PMPH.
+
+[CUDA C Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html) you may want to browse through this guide to see what offers. No need to read all of it closely.
+
+## Course Schedule
 
 This course schedule is tentative and will be updated as we go along.
 
