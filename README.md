@@ -33,9 +33,9 @@ If you like the idea of attending the labs physically, then I
 suggest you come to DIKU for the other lab session as well (the 
 one in which you are only guaranteed virtual presence by default),
 because I will allow such students to join the lab until the corona
-class capacity is reached by a first-come first-serve policy.
-(This is because typically some students absentee the physical lab
-sessions, so there might be space for the others). If we are out of
+class capacity is reached (using a first-come first-serve policy).
+This is because typically some students absentee the physical lab
+sessions, so there might be space for the others. If we are out of
 space you can find a quit place to attend by zoom via edurom.
 
 ### Evaluation
