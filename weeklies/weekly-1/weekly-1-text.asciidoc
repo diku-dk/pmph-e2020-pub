@@ -9,8 +9,8 @@ mandated by specific subtasks. All code files should be zipped
 together into an archive named `wa1-code.zip`.
 
 For task 3, you are supposed to write yourself a CUDA program in a
-file named `wa1-task4.cu` and a `Makefile` for it. For the other
-(`Futhark`) programming tasks (i.e., tasks 2, 4, 5), you are supposed
+file named `wa1-task3.cu` and a `Makefile` for it. For the other
+(`Futhark`) programming tasks (i.e., tasks 2 and 4), you are supposed
 to fill in the missing parts in the code such that all the tests are
 valid (and to report some performance results for larger datasets).
  
@@ -20,11 +20,11 @@ directly in the provided files.   There are comments in the source
 files that are supposed to guide you (together with the text of this
 assignment).
 
-Unziping the handed in archive `wa1-code.zip` will create the `w1-code-handin`
+Unziping the handed in archive `wa1-code-handin.tar.gz` will create the `w1-code-handin`
 folder, which contains (i) files `spMVmult-flat.fut` and `spMVmult-seq.fut`---which
 correspond to sparse-matrix vector multiplication problem, and (ii) 
-subfolders `lssp` and `primes`, which contain files corresponding to the
-longest-satisfying segment and prime-computation problem, respectively.
+subfolder `lssp`, which contain the files corresponding to the
+longest-satisfying segment problem.
 
 == Task 1: 
 

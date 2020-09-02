@@ -121,7 +121,7 @@ deadline**.
 ### Weekly 1 (due September 10)
 
 * [Assignment text](weeklies/weekly-1/weekly-1-text.asciidoc)
-* [Code handout](weeklies/weekly-1/weekly-1-text.html)
+* [Code handout](weeklies/weekly-1/w1-code-handin.tar.gz)
 
 ### Weekly 2 (due ...)
 
