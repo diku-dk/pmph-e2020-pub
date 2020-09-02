@@ -26,9 +26,9 @@ correspond to sparse-matrix vector multiplication problem, and (ii)
 subfolder `lssp`, which contain the files corresponding to the
 longest-satisfying segment problem.
 
-== Task 1: 
+== Task 1 (2 pts): 
 
-=== Task 1.a) Prove that a list-homomorphism induces a monoid structure
+=== Task 1.a) Prove that a list-homomorphism induces a monoid structure (1pt)
 
 Assume you have a well-defined list-homomorphic program `h : A -> B`, i.e., all list splitting into `x++y` give the same result:
 
@@ -95,7 +95,7 @@ Your task is to fill in the dots in the implementation of the LSS problem. Pleas
 
 *Observation:* I have included also a sequential generic version of LSSP, its implementation is in file `lssp-seq.fut`. You may enable it from any instances, for example by uncommenting in file `lssp-same.fut` the line `lssp_seq pred1 pred2 xs` (and commenting the other one). However, if you do that, then compile with the `c` backend (`opencl` will take forever because you are running a sequential program). 
 
-== Task 3: CUDA exercise, see lab 1 slides: Lab1-CudaIntro (2pts)  
+== Task 3: CUDA exercise, see lab 1 slides: Lab1-CudaIntro (3pts)  
 
 Write a CUDA program with two functions that both map the function (x/(x-2.3))^3 to the array [1,...,753411], i.e., of size 753411. The first function should implement a serial map performed on the CPU; the second function should implement a parallel map in CUDA performed on the GPU.   Check that the result on CPU is equal to the result on GPU (modulo an epsilon error, e.g., `fabs(cpu_res[i] - gpu-res[i]) < 0.0001` for all `i`), and print a VALID or INVALID message. Also print the runtime (excluding the time for CPU-to-GPU transfer and GPU memory allocation) taken by the sequential and CUDA implementations.
 
@@ -114,7 +114,7 @@ Please submit:
 ** the code of your CUDA kernel together with how it was called, including the code for the computation of the grid and block sizes.
 
 
-== Task 4: Flat Sparse-Matrix Vector Multiplication in Futhark (2pts)
+== Task 4: Flat Sparse-Matrix Vector Multiplication in Futhark (3pts)
 
 This task refers to writing a flat-parallel version of sparse-matrix vector multiplication in Futhark.
 Take a look at Section 3.2.4 ``Sparse-Matrix Vector Multiplication'' in lecture notes, page 40-41 (and potentially also at rewrite rule 5 in Section 4.1.6 ``Flattening a Reduce Directly Nested in a Map'' 
