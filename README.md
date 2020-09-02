@@ -118,21 +118,20 @@ latest).  You then have another week to prepare a resubmission.  That
 is, **the resubmission deadline is two weeks after the original handin
 deadline**.
 
-### Weekly 1 (due November 28)
+### Weekly 1 (due September 10)
 
-* [Assignment text]()
-* [Code handout]()
-* [Hopefully helpful notes on how to do these kinds of assignments]()
+* [Assignment text](weeklies/weekly-1/weekly-1-text.html)
+* [Code handout](weeklies/weekly-1/weekly-1-text.html)
 
-### Weekly 2 (due December 5)
-
-to be announced
-
-### Weekly 3 (due December 12)
+### Weekly 2 (due ...)
 
 to be announced
 
-### Weekly 4 (due December 19)
+### Weekly 3 (due ...)
+
+to be announced
+
+### Weekly 4 (due ...)
 
 to be announced
 
