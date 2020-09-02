@@ -120,7 +120,7 @@ deadline**.
 
 ### Weekly 1 (due September 10)
 
-* [Assignment text](weeklies/weekly-1/weekly-1-text.html)
+* [Assignment text](weeklies/weekly-1/weekly-1-text.asciidoc)
 * [Code handout](weeklies/weekly-1/weekly-1-text.html)
 
 ### Weekly 2 (due ...)
