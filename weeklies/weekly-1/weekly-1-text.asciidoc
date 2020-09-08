@@ -87,7 +87,7 @@ Your task is to fill in the dots in the implementation of the LSS problem. Pleas
 ** add one or more small datasets---reference input and output directly in the main files `lssp-same.fut`, `lssp-zeros.fut`, `lssp-sorted.fut`---for each predicate (zeros, sorted, same) and make sure that your program validates on all three predicates by running `futhark test --backend=opencl lssp-sorted.fut` and so on.
 
 ** compile the program with acceleration `futhark opencl lssp-sorted.fut` and without acceleration (sequential C) `futhark c lssp-sorted.fut` and report the speedup of the accelerated version by running both on a large dataset, for example with the command: 
-`futhark dataset --i32-bounds=-10:10 -b -g [10000000]i32 | lssp-sorted -t /dev/stderr -r 10`
+`futhark dataset --i32-bounds=-10:10 -b -g [10000000]i32 | ./lssp-sorted -t /dev/stderr -r 10`
 
 ** submit your code `lssp.fut` (together with all the other provided code, so that your TA does not have to move files around).
 
