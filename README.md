@@ -101,8 +101,8 @@ the lab sessions.
 
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
-| 01/09 | 10:15-12:00 | [Intro, Hardware Trends and List Homomorphisms (SFT), Chapters 1 and 2 in Lecture Notes](slides/L1-Intro-Org-LH.pdf) | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-Hom/GibonsThirdTheorem.pdf) |
-| 03/09 | 10:15-12:00 | [List Homomorphism & Parallel Basic Blocks (SFT), Chapters 2 and 3 in Lecture Notes](slides/L2-Flatenning.pdf) | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
+| 01/09 | 10:15-12:00 | [Intro, Hardware Trends and List Homomorphisms (SFT)](slides/L1-Intro-Org-LH.pdf), Chapters 1 and 2 in Lecture Notes | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-Hom/GibonsThirdTheorem.pdf) |
+| 03/09 | 10:15-12:00 | [List Homomorphism & Parallel Basic Blocks (SFT)](slides/L2-Flatenning.pdf), Chapters 2 and 3 in Lecture Notes | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
 | 03/09 | 13:00-17:00 | Lab: [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf), Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for L1](futhark-code/L1) |
 | 03/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
 | 08/09 | 10:15-12:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapers 3 and 4 in Lecture Notes | |
