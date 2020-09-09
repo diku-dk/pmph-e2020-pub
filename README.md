@@ -106,6 +106,8 @@ the lab sessions.
 | 03/09 | 13:00-17:00 | Lab: [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf), Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for L1](futhark-code/L1) |
 | 03/09 | some time   | [**Assignment 1 handout**](weekly-1/) | |
 | 08/09 | 10:15-12:00 | [Flattening Nested Parallelism continuation (SFT)](slides/L2-Flatenning.pdf) | |
+| 10/09 | 10:15-12:00 | [Flattening Nested Parallelism continuation (SFT)](slides/L2-Flatenning.pdf) | |
+| 10/09 | 13:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf) [GPU implementation of Reduce and Scan](slides/Lab2-RedScan.pdf) | [GPU Hardware at a High-Level](slides/Lab2-GPU-HWD.pdf)|
 
 ## Weekly assignments
 
@@ -118,14 +120,15 @@ latest).  You then have another week to prepare a resubmission.  That
 is, **the resubmission deadline is two weeks after the original handin
 deadline**.
 
-### Weekly 1 (due September 10)
+### Weekly 1 (due September 10th)
 
 * [Assignment text](weeklies/weekly-1/weekly-1-text.asciidoc)
 * [Code handout](weeklies/weekly-1/w1-code-handin.tar.gz)
 
-### Weekly 2 (due ...)
+### Weekly 2 (due September 17th)
 
-to be announced
+* [Assignment text](weeklies/weekly-1/weekly-1-text.asciidoc)
+* [Code handout](weeklies/weekly-1/w1-code-handin.tar.gz)
 
 ### Weekly 3 (due ...)
 
