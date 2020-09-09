@@ -107,7 +107,7 @@ the lab sessions.
 | 03/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
 | 08/09 | 10:15-12:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapers 3 and 4 in Lecture Notes | |
 | 10/09 | 10:15-12:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapter 4 in Lecture Notes | |
-| 10/09 | 13:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf) [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first, [GPU Hardware at a High-Level](slides/Lab2-GPU-HWD.pdf)|
+| 10/09 | 13:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf); [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first, [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf)|
 | 10/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
 
 
