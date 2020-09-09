@@ -104,11 +104,12 @@ the lab sessions.
 | 01/09 | 10:15-12:00 | [Intro, Hardware Trends and List Homomorphisms (SFT)](slides/L1-Intro-Org-LH.pdf), Chapters 1 and 2 in Lecture Notes | [Sergei Gorlatch, "Systematic Extraction and Implementation of Divide-and-Conquer Parallelism"](material/List-Hom/GorlatchDivAndConq.pdf);  [Richard S. Bird, "An Introduction to the Theory of Lists"](material/List-Hom/BirdThofLists.pdf); [Jeremy Gibons, "The third homomorphism theorem"](material/List-Hom/GibonsThirdTheorem.pdf) |
 | 03/09 | 10:15-12:00 | [List Homomorphism & Parallel Basic Blocks (SFT)](slides/L2-Flatenning.pdf), Chapters 2 and 3 in Lecture Notes | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
 | 03/09 | 13:00-17:00 | Lab: [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf), Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for L1](futhark-code/L1) |
-<<<<<<< HEAD
 | 03/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
 | 08/09 | 10:15-12:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapers 3 and 4 in Lecture Notes | |
 | 10/09 | 10:15-12:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapter 4 in Lecture Notes | |
 | 10/09 | 13:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf) [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first, [GPU Hardware at a High-Level](slides/Lab2-GPU-HWD.pdf)|
+| 10/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
+
 
 ## Weekly assignments
 
@@ -128,8 +129,8 @@ deadline**.
 
 ### Weekly 2 (due September 17th)
 
-* [Assignment text](weeklies/weekly-1/weekly-1-text.asciidoc)
-* [Code handout](weeklies/weekly-1/w1-code-handin.tar.gz)
+* [Assignment text](weeklies/weekly-2/weekly-2-text.asciidoc)
+* [Code handout](weeklies/weekly-2/w2-code-handin.tar.gz)
 
 ### Weekly 3 (due ...)
 
