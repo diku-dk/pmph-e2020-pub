@@ -105,8 +105,8 @@ the lab sessions.
 | 03/09 | 10:15-12:00 | [List Homomorphism & Parallel Basic Blocks (SFT)](slides/L2-Flatenning.pdf), Chapters 2 and 3 in Lecture Notes | [Various papers related to flattening, but which are not very accessible to students](material/Flattening) |
 | 03/09 | 13:00-17:00 | Lab: [Gentle Intro to CUDA](slides/Lab1-CudaIntro.pdf), Futhark programming, First Weekly | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [futhark code for L1](futhark-code/L1) |
 | 03/09 | some time   | [**Assignment 1 handout**](weeklies/weekly-1/) | |
-| 08/09 | 10:15-12:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapers 3 and 4 in Lecture Notes | |
-| 10/09 | 10:15-12:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf), chapter 4 in Lecture Notes | |
+| 08/09 | 10:15-12:00 | [Parallel Basic Block & Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | chapers 3 and 4 in Lecture Notes |
+| 10/09 | 10:15-12:00 | [Flattening Nested Parallelism (SFT)](slides/L2-Flatenning.pdf) | , chapter 4 in Lecture Notes |
 | 10/09 | 13:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf); [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first |
 | 10/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
 | 15/09 | 10:15-12:00 | [In-Order Pipelines (HWD)](slides/L3-InOrderPipe.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
