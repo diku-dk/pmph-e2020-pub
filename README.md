@@ -110,6 +110,9 @@ the lab sessions.
 | 10/09 | 13:00-17:00 | Lab: [Fun Quiz](slides/Lab2_presentation.pdf); [Reduce and Scan in Cuda](slides/Lab2-RedScan.pdf) | discussing second weekly, helping with the first, [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf)|
 | 10/09 | some time   | [**Assignment 2 handout**](weeklies/weekly-2/) | |
 | 15/09 | 10:15-12:00 | [In-Order Pipelines (HWD)](slides/L3-InOrderPipe.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 17/09 | 10:15-12:00 | [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 17/09 | 13:00-17:00 | Lab: [Three Important Design Choices of GPU Hardware](slides/Lab2-GPU-HWD.pdf) | helping with the first two weekly assignments.
+| 17/09 |  | No new weekly assignment this week; the third will be published next week | |
 
 
 ## Weekly assignments
