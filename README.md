@@ -113,6 +113,10 @@ the lab sessions.
 | 17/09 | 10:15-12:00 | [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
 | 17/09 | 13:00-17:00 | Lab: [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf) | helping with the first two weekly assignments.
 | 17/09 |  | No new weekly assignment this week; the third will be published next week | |
+| 22/09 | 10:15-12:00 | [Finishing VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf), [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book, Chapter 5 and 6 of lecture Notes |
+| 24/09 | 10:15-12:00 | [Dependency Analysis of Imperative Loops, Case Study: Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
+| 24/09 | 13:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the first two weekly assignments.
+
 
 
 ## Weekly assignments
