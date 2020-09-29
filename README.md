@@ -116,7 +116,7 @@ the lab sessions.
 | 22/09 | 10:15-12:00 | [Finishing VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf), [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book, Chapter 5 of lecture Notes |
 | 24/09 | 10:15-12:00 | [Dependency Analysis of Imperative Loops, Case Study: Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
 | 24/09 | 13:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the first two weekly assignments.
-
+| 24/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
 
 
 ## Weekly assignments
@@ -140,9 +140,10 @@ deadline**.
 * [Assignment text](weeklies/weekly-2/weekly-2-text.asciidoc)
 * [Code handout](weeklies/weekly-2/w2-code-handin.tar.gz)
 
-### Weekly 3 (due ...)
+### Weekly 3 (due October 1st)
 
-to be announced
+* [Assignment text](weeklies/weekly-3/weekly-3-text.asciidoc)
+* [Code handout](weeklies/weekly-3/w3-code-handin.tar.gz)
 
 ### Weekly 4 (due ...)
 
