@@ -154,15 +154,14 @@ to be announced
 
 ## Group projects (due Friday just before the exam week starts)
 
-Several potential choices for group projects may be found in folder `group-projects`, namely
+Several potential choices for group project may be found in folder `group-projects`, namely
 
-* [Single Pass Scan (basic block of parallel programming)](group-projects/single-pass-scan)
+* [Single Pass Scan in Cuda (basic block of parallel programming)](group-projects/single-pass-scan)
 * [Bfast: a landscape change detection algorithm (Remote Sensing)](group-projects/bfast)
 * [Local Volatility Calibration  (Finance)](group-projects/loc-vol-calib)
 * [Trinomial-Tree Option Pricing (Finance)](group-projects/trinom-pricing)
 
-You are free to propose your own project.
-You may also talk with our PhD student Robert Schenck <robert@rschenck.com> and Philip Munksgaard <philip@munksgaard.me> to see if you would like to join their more challenging projects, which are related to automatic differentiation and memory management in Futhark, respectively. 
+You are also free to propose your own project, for example from the machine learning field.
 
 ## GPU + MultiCore Machines
 
