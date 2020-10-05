@@ -160,6 +160,7 @@ Several potential choices for group project may be found in folder `group-projec
 * [Bfast: a landscape change detection algorithm (Remote Sensing)](group-projects/bfast)
 * [Local Volatility Calibration  (Finance)](group-projects/loc-vol-calib)
 * [Trinomial-Tree Option Pricing (Finance)](group-projects/trinom-pricing)
+* [HP Implementation for Fusing Tensor Contractions (Deep Learning)](group-projects/tensor-contraction): read the paper, implement the technique (some initial code is provided), and try to replicate the results of the paper. 
 
 You are also free to propose your own project, for example from the machine learning field.
 
