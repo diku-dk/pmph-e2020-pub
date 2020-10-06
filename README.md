@@ -118,8 +118,10 @@ the lab sessions.
 | 24/09 | 13:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the first two weekly assignments.
 | 24/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
 | 29/09 | 10:15-12:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
-| 01/10 | 10:15-12:00 | [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
+| 01/10 | 10:15-12:00 | [Bus-Based Coherency Protocols (HWD) (HWD)](slides/L6-MemIntro.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 01/10 | 13:00-17:00 | Lab: Presenting Possible Group Project | helping with two weekly assignments.
+| 06/10 | 10:15-12:00 | [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
+| 08/10 | 10:15-12:00 | [Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapter 6 of "Parallel Computer Organization and Design" Book, Help for the fourth weekly assignment |
 
 
 ## Weekly assignments
