@@ -150,7 +150,7 @@ deadline**.
 
 ### Weekly 4 (due October 13th)
 
-* [Assignment text](weeklies/weekly-3/weekly-4-text.pdf)
+* [Assignment text](weeklies/weekly-4/weekly-4-text.pdf)
 
 ## Group projects (due Friday just before the exam week starts)
 
