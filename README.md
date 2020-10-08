@@ -158,9 +158,9 @@ deadline**.
 * [Assignment text](weeklies/weekly-3/weekly-3-text.asciidoc)
 * [Code handout](weeklies/weekly-3/w3-code-handin.tar.gz)
 
-### Weekly 4 (due ...)
+### Weekly 4 (due October 13th)
 
-to be announced
+* [Assignment text](weeklies/weekly-4/weekly-4-text.pdf)
 
 ## Group projects (due Friday just before the exam week starts)
 
