@@ -122,6 +122,14 @@ the lab sessions.
 | 01/10 | 13:00-17:00 | Lab: Presenting Possible Group Project | helping with two weekly assignments.
 | 06/10 | 10:15-12:00 | [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 08/10 | 10:15-12:00 | [Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapter 6 of "Parallel Computer Organization and Design" Book, Help for the fourth weekly assignment |
+| 08/10 | 13:00-17:00 | Lab: Working on the 4th Weekly Assignment | helping project and anything else.
+| 13/10 | 10:15-12:00 | Autumn break (no lecture) | |
+| 15/10 | 10:15-12:00 | Autumn break (no lecture) | |
+| 15/10 | 13:00-17:00 | Autumn break (no lab unless you ask for it!) |
+| 20/10 | 10:15-12:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref)|
+| 22/10 | 10:15-12:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
+| 22/10 | 13:00-17:00 | Lab: help with group project | 
+
 
 
 ## Weekly assignments
