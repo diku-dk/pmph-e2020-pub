@@ -56,27 +56,32 @@ editing time. If a serious attempt was made but the solution is not
 satisfactory (or simply if you want to improve your assignment, hence grade),
 an updated solution should be resubmitted one week after the time when
 the assignment was graded.  Extensions may be possible, but you will need
-to agree with your TA.
+to agree with the TA responsible for that particular assignment (see below).
 
-For the group project no re-submission is possible; the deadline is the
-Friday just before the exam week.
+For the group project no re-submission is possible; the deadline is October
+30th (Friday before the exam week).
 
-The oral examination will be hold in the exam week (Wednesday, Thursday and Friday if necessary). The final evaluation will take up to 20 minutes per student, but probably the whole group will be examined at a time (unless you wish otherwise).
+The oral examination will be hold in the exam week (Wednesday and Thursday, and Friday if necessary). The final evaluation will take up to 20 minutes per student, but probably the whole group will be examined at a time (unless you wish otherwise).
 
 **Weekly and group assignment handin is still on Absalon.**
 
 ### Teacher and Teaching Assistants (TAs)
 
-The main teacher is **[Cosmin Oancea](mailto:cosmin.oancea@diku.dk)**.
+The main teacher is:
+* **[Cosmin Oancea](mailto:cosmin.oancea@diku.dk)**.
 
-One TA is **[Anders Holst](mailto:anersholst@gmail.com)**. 
+Your TA's are:
+* **[Anders Holst](mailto:anersholst@gmail.com)**
+* **[Dmitry Serykh](mailto:dmitry.serykh@gmail.com)**
 
-There will be another TA, to be announced.
 
 The plan is that the teacher will conduct the lectures and the lab.
-The TAs will be mainly in charge of grading the weekly assignments,
-patrolling the Absalon discussion forum and perhaps helping with the
-virtual lab.
+Anders will be grading weekly 1-3 hand-ins and resubmissions, while Dmitry
+will be grading weekly 4 hand-ins and resubmissions. Questions about a particular
+weekly assignment should be directed at the TA responsible for that assignment,
+or posted on the Absalon discussion forum which the TAs will be patrolling 
+(but other students are of course welcome to pitch in).
+
 
 ### Course Tracks and Resources
 
@@ -162,9 +167,9 @@ deadline**.
 
 * [Assignment text](weeklies/weekly-4/weekly-4-text.pdf)
 
-## Group projects (due Friday just before the exam week starts)
+## Group project (due Friday October 30th (Friday before the exam week))
 
-Several potential choices for group project may be found in folder `group-projects`, namely
+Several potential choices for group project may be found in the`group-projects` directory, namely
 
 * [Single Pass Scan in Cuda (basic block of parallel programming)](group-projects/single-pass-scan)
 * [Bfast: a landscape change detection algorithm (Remote Sensing)](group-projects/bfast)
