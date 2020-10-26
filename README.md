@@ -134,7 +134,9 @@ the lab sessions.
 | 20/10 | 10:15-12:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref)|
 | 22/10 | 10:15-12:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
 | 22/10 | 13:00-17:00 | Lab: help with group project | 
-
+| 27/10 | 10:15-12:00 | No lecture, BUT will help with group project and weeklies | |
+| 29/10 | 10:15-12:00 | No Lecture |  |
+| 29/10 | 13:00-17:00 | Lab: help with group project and weeklies | 
 
 
 ## Weekly assignments
